@@ -1,9 +1,3 @@
-→ The `st.write(...)` must be **indented inside** the `if`.
-
----
-
-✅ Fixed Code:
-```python
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
